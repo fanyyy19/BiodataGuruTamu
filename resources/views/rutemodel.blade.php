@@ -1,0 +1,1 @@
+Nama Sekolah : {{ $namaSekolah }}
